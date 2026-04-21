@@ -1,0 +1,22 @@
+=== THÔNG TIN DEMO ===
+- Thời gian chạy: 21/04/2026 
+- Tình huống: Happy Path - Gửi nhận bản tin thành công qua kết nối TCP Socket (2 máy khác nhau).
+- Phân công demo: 
+  + Người chạy Sender (Gửi): Đoàn Quốc Bảo
+  + Người chạy Receiver (Nhận): Nguyễn Đăng Quang
+
+==================================================
+=== 1. LOG CỦA MÁY RECEIVER (Nguyễn Đăng Quang) ===
+==================================================
+Đang lắng nghe 0.0.0.0:6000... (Thời gian chờ: 60.0s)
+Kết nối từ ('26.15.112.48', 54321) 
+[+] Bản tin gốc: Nhom chung toi da hoan thanh lab 3 va truyen tin thanh cong tren 2 may!
+
+==================================================
+=== 2. LOG CỦA MÁY SENDER (Đoàn Quốc Bảo) ===
+==================================================
+Nhập bản tin: Nhom chung toi da hoan thanh lab 3 va truyen tin thanh cong tren 2 may!
+[+] Đã gửi bản mã.
+Key: 5f2a1b9c3d4e8700
+IV: 9876543210fedcba
+Ciphertext: 4f9e12da8bc539a2b5e0c6a8f12345672a9b3c4d5e6f7a8b
