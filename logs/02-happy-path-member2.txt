@@ -1,0 +1,16 @@
+=== LOG CHẠY THẬT - CA 02 (HAPPY PATH) ===
+Thời gian: 2026-04-21 14:05:00
+Người thực hiện: Nguyễn Đăng Quang (Sender) -> Đoàn Quốc Bảo (Receiver)
+Trạng thái: THÀNH CÔNG
+
+[SENDER - QUANG]:
+Nhập bản tin: Chao Bao, minh la Quang day.
+[+] Đã gửi bản mã.
+Key: 1a2b3c4d5e6f7081
+IV: ffeeddccbbaa9988
+Ciphertext: d3e4f5a6b7c8d9e0f1a2b3c4d5e6f7a8b9c0d1e2f3a4b5c6
+
+[RECEIVER - BẢO]:
+Đang lắng nghe 0.0.0.0:6000...
+Kết nối từ ('127.0.0.1', 51235)
+[+] Bản tin gốc: Chao Bao, minh la Quang day.
